@@ -1,2 +1,2 @@
 # Dockerfiles
-dockerfiles para generar imágenes para Docker
+En éste repositorio se publicarán distintos `Dockerfiles` con sus instrucciones, capaces de generar imágenes para Docker.
